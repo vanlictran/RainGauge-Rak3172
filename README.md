@@ -26,6 +26,10 @@ Support sensors:
 
 ### Hardware connection:
 
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/43590e25-210d-4a73-9fea-75715c76654b)
+
+On the RainGauge board
+
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/83794843-a9d2-4d8a-8205-b86d8a1eae8a)
 
 ### In STM32CubeProgammer:
