@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 ```
 
   -  Go to **Tool -> Board -> Boards Manager**, search & install **RAKwireless RUI STM32 Boards**
-  -  Open ```ATC_Command_RF210.ino``` sketch, seletc **WisDou RAK3172-T Board** from **Tool** menu
+  -  Open ```RainGauge.ino``` sketch, seletc **WisDou RAK3172-T Board** from **Tool** menu
   -  Plug in your board and upload
 
 
