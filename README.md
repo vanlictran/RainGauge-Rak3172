@@ -1,4 +1,4 @@
-# RainGauge
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/3655e0d9-27ec-43f0-acc7-8e6fd4ab542b)# RainGauge
 The device uses LoRaWAN to uplink temperature, humidity and precipitation sensor data through calculation.
 Data will be sent every 30 ninutes, if there is rain, the sending time will be 5 minutes
 Support sensors:
@@ -91,8 +91,16 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/8319f2fe-63a4-4159-a227-730c41d03d47)
 
+## Energy consumption
+- The average energy consumption when the device is operating (sending data to the server) is **8.36mA** for **~15s**.
+  
+- ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/788eb731-e495-4512-936f-1b925529a2cb)
 
+- When the device is inactive, it will be in sleep mode. Power consumption is **6.81 uA**
+  
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/86c0f74d-2d5f-4a63-b74b-9b4ac87fee55)
 
+### If you have any question or discussion points, please let me know via the [Issues](https://github.com/XuanMinh201/RainGauge/issues) & [Disscussions](https://github.com/XuanMinh201/RainGauge/discussions)
 
 ![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/bacd2547-f00b-4ce3-921c-7f5aad7f8b5a)
 
