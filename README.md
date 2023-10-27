@@ -1,6 +1,6 @@
 # RainGauge
 The device uses LoRaWAN to uplink temperature, humidity and precipitation sensor data through calculation.
-
+Data will be sent every 30 ninutes, if there is rain, the sending time will be 5 minutes
 Support sensors:
 - [Digital humidity and temperature sensor - SHTC3](https://www.sensirion.com/products/catalog/SHTC3/)
 
@@ -67,3 +67,19 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
 ## The Things Network
 - Depends on your country region and how you set up your gateway. Please create the correct application with it to be able to receive data
 - In Danang, Vietnam we use the [**AS923_2**](https://ns.docs.everynet.io/channel_plans/AS920-923.html) band and [eu1.cloud.thethings.network](https://eu1.cloud.thethings.network/console/)
+- You need to **create application** for RainGauge Board
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/6263f471-85bb-40d7-8175-f36b86bb3b63)
+- Select **end device -> Register end device** to create your device 
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/f2f3e594-0dc0-4156-b542-02ef4c0393e8)
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/ff61130b-e472-45ed-bed2-2af3d836196b)
+- After creating the device, now you just need to copy **Device address, NwkSKey, AppSKey** and paste it into your code.
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/8cf5e5bc-677c-4cd7-925a-3b8f63af2f02)
+- The data sent will be in the default format
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/e0ee5e85-7242-4a3e-989e-dfcfdc9c6fe4)
+- You can change the format of the data to be able to observe changes
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/2781e16a-544a-484d-b850-0a4cea05c686)
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/8319f2fe-63a4-4159-a227-730c41d03d47)
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/bacd2547-f00b-4ce3-921c-7f5aad7f8b5a)
+
+
+
