@@ -39,6 +39,9 @@ On the RainGauge board
   -  Select the address as in following image if needed
   -  Press Download to upload firmwave
   -  After download success, press **R_RAK (reset)** button to exit the bootmode
+  -  
+<!-- ![image](https://github.com/XuanMinh201/RF210/assets/75436464/55f5c5ab-d69a-4a25-94da-563d1e52a172) -->
+<img src="https://github.com/XuanMinh201/RF210/assets/75436464/55f5c5ab-d69a-4a25-94da-563d1e52a172" height="450">
 
 ### In Arduino IDE:
   -  Add this JSON in Additional Boards Manager URLs [\(Show me how?\)](https://support.arduino.cc/hc/en-us/articles/360016466340-Add-third-party-platforms-to-the-Boards-Manager-in-Arduino-IDE):
