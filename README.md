@@ -26,8 +26,7 @@ Support sensors:
 
 ### Hardware connection:
 
-    ![RainGauge-connect](https://github.com/XuanMinh201/RainGauge/assets/75436464/43b62185-2ebc-413e-a50a-9dfeb4401d6b)
-
+![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/83794843-a9d2-4d8a-8205-b86d8a1eae8a)
 
 ### In STM32CubeProgammer:
   -  Hold the **B_RAK (boot)** button and press **R_RAK (reset)** button and release the **B_RAK (boot)** button to enter bootmode.
