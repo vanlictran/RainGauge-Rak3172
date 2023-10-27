@@ -1,4 +1,4 @@
-![image](https://github.com/XuanMinh201/RainGauge/assets/75436464/3655e0d9-27ec-43f0-acc7-8e6fd4ab542b)# RainGauge
+# RainGauge
 The device uses LoRaWAN to uplink temperature, humidity and precipitation sensor data through calculation.
 Data will be sent every 30 ninutes, if there is rain, the sending time will be 5 minutes
 Support sensors:
