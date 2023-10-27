@@ -62,3 +62,8 @@ https://raw.githubusercontent.com/RAKWireless/RAKwireless-Arduino-BSP-Index/main
     
 <!-- ![image](https://github.com/XuanMinh201/RF210/assets/75436464/146c570a-ec82-45bc-ada0-89544624b861) -->
 <img src="https://github.com/XuanMinh201/RF210/assets/75436464/146c570a-ec82-45bc-ada0-89544624b861" height="450">
+
+
+## The Things Network
+- Depends on your country region and how you set up your gateway. Please create the correct application with it to be able to receive data
+- In Danang, Vietnam we use the [**AS923_2**](https://ns.docs.everynet.io/channel_plans/AS920-923.html) band and [eu1.cloud.thethings.network](https://eu1.cloud.thethings.network/console/)
