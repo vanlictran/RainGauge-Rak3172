@@ -11,10 +11,10 @@ Support sensors:
 - USB to UART Converter
 - RainGauge board
 
-### Sortware
+### Sortware - Important : NEED TO UPDATE FIRMWARE FOR RAK3172
 
 - Arduino IDE (version v1.8.13 or above is recommended)
-- RUI3 lastest firmware for RAK3172: [RAK3172-E_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK3172-E_latest_final.hex)
+- RUI3 lastest firmware for RAK3172: [RAK3172-E_latest_final.hex](https://downloads.rakwireless.com/RUI/RUI3/Image/RAK3172-E_latest_final.hex) or https://docs.rakwireless.com/firmware/ 
 - (STM32CubeProgammer)[https://www.st.com/en/development-tools/stm32cubeprog.html]
 
 ### Additional Libraries
